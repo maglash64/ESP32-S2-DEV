@@ -5,6 +5,7 @@ Features:
 128Mb FLASH. 
 USB-C Connector for Programming All Usable GPIOs exposed. 
 PCB etched Inverted F Antenna.
+Pi Matching required according to choosen PCB stackup.
 
 ![Screenshot](esp32s2-1.png)
 ![Screenshot](esp32s2-2.png)
